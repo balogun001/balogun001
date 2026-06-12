@@ -7,7 +7,7 @@ Frontend Engineer with 5+ years of experience architecting enterprise-grade web 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balogunvictor&layout=compact)](https://github.com/balogunvictor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/topa-langs/?username=balogunvictor&layout=compact)](https://github.com/balogunvictor)
 
 
 ## Skills
@@ -22,3 +22,11 @@ Frontend Engineer with 5+ years of experience architecting enterprise-grade web 
 - Scss
 - Tailwindcss
 - Git
+
+Previous GitHub Account
+
+Some of my earlier projects and contribution history are associated with a previous GitHub account that I no longer have access to. These repositories represent part of my development journey and professional growth.
+
+Previous GitHub: https://github.com/balogunvictor
+
+I continue to actively maintain and develop projects using my current account.
