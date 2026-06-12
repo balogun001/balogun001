@@ -5,11 +5,6 @@ Frontend Engineer with 5+ years of experience architecting enterprise-grade web 
 
 - 📫 How to reach me **balogunmoyinoluwav@gmail.com**
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/topa-langs/?username=balogun001&layout=compact)](https://github.com/balogun001)
-
-
 ## Skills
 
 - React
