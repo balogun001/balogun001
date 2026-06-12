@@ -7,7 +7,7 @@ Frontend Engineer with 5+ years of experience architecting enterprise-grade web 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/topa-langs/?username=balogunvictor&layout=compact)](https://github.com/balogunvictor)
+[![Top Langs](https://github-readme-stats.vercel.app/api/topa-langs/?username=balogun001&layout=compact)](https://github.com/balogun001)
 
 
 ## Skills
